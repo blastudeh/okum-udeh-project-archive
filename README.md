@@ -1,6 +1,6 @@
 # Completed project archive
 
-**Okum Udeh · ChatGPT-assisted work · reviewed 8 November 2026**
+**Okum Udeh · reviewed 8 November 2026**
 
 This private repository brings together recovered project artifacts and a record of what was actually completed. Start with the [detailed project catalog](PROJECT_CATALOG.md).
 
